@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?JonSon1313=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **JonSon1313/JonSon1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
